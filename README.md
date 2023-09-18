@@ -1,5 +1,5 @@
 # Natural-Voice-Filtering
-KCC2023 :: 음성 기반 상황 분류 모델의 학습 효율 향상을 위한 데이터셋 정제 기법
+KCC2023 :: [음성 기반 상황 분류 모델의 학습 효율 향상을 위한 데이터셋 정제 기법](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11488559)
 
 ## Summary
 ![image](https://github.com/sungsiyul/Natural-Voice-Filtering/assets/86465983/2c2a5af2-5166-4f28-a6b7-874642227081)
